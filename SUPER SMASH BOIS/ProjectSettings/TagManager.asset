@@ -3,7 +3,15 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Ben
+  - Alex
+  - Sam
+  - Evan
+  - Jake
+  - Josh
+  - Jacob
+  - Sandi
   layers:
   - Default
   - TransparentFX
